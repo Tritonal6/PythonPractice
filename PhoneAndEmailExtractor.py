@@ -2,7 +2,6 @@
 
 # PhoneAndEmailExtractor.py - Find phone numbers/emails sitting on the clipboard.
 
-
 # It's important to think about your program's needs, and plan accordingly, in steps
 
 # This program will need to comply with the following steps:
