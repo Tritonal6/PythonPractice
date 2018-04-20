@@ -26,5 +26,5 @@ elif len(sys.argv) == 2:								 # else if the command is only two args, either 
 #
 	elif sys.argv[1] in mcbShelf:						 # otherwise, assume cmdline arg IS a keyword. If this keyword exists:
 		pyperclip.copy(mcbShelf[sys.argv[1]])			 # load that key's value to the clipboard.
-#
+
 mcbShelf.close()
