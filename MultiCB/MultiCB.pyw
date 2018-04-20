@@ -28,3 +28,4 @@ elif len(sys.argv) == 2:								 # else if the command is only two args, either 
 		pyperclip.copy(mcbShelf[sys.argv[1]])			 # load that key's value to the clipboard.
 
 mcbShelf.close()
+# swerve
